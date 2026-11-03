@@ -7,4 +7,7 @@ __pycache__/
 *.m4a
 *.ncm
 public/sfx/
+!nju-med-2026/public/**/*.mp3
+!nju-med-2026/public/**/*.wav
+!nju-med-2026/public/sfx/*.wav
 src/beats.ts

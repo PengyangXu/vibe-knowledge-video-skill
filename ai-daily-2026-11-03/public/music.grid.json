@@ -1,0 +1,12 @@
+{
+ "bpm": 72.0,
+ "meter": 4,
+ "offset_s": 0.0,
+ "bars": 36,
+ "drop_bar": 4,
+ "drop_s": 13.333,
+ "key": "D",
+ "mode": "minor",
+ "seed": 1103,
+ "style": "calm"
+}

@@ -8,3 +8,10 @@ __pycache__/
 *.ncm
 public/sfx/
 src/beats.ts
+
+# 11.03 vertical daily needs the Maia read, the bed, and the hits to re-render.
+!videos/ai-daily-2026-11-03/public/vo.mp3
+!videos/ai-daily-2026-11-03/public/music.wav
+!videos/ai-daily-2026-11-03/public/music.grid.json
+!videos/ai-daily-2026-11-03/public/sfx/
+!videos/ai-daily-2026-11-03/public/sfx/**

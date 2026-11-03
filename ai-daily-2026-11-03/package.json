@@ -1,0 +1,29 @@
+{
+  "name": "ai-daily-2026-11-03",
+  "version": "1.0.0",
+  "private": true,
+  "description": "AI 每日日报 2026-11-03 vertical Remotion film",
+  "scripts": {
+    "dev": "remotion studio",
+    "typecheck": "tsc --noEmit",
+    "lint": "eslint src",
+    "render": "remotion render Daily out/ai-daily-2026-11-03-vertical-v1.mp4 --codec=h264 --color-space=bt709 --pixel-format=yuv420p --crf=18"
+  },
+  "dependencies": {
+    "@remotion/cli": "^4.0.537",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "remotion": "^4.0.537"
+  },
+  "devDependencies": {
+    "@eslint/compat": "^2.1.1",
+    "@eslint/js": "^9.19.0",
+    "@remotion/eslint-config-flat": "^4.0.537",
+    "@remotion/eslint-plugin": "^4.0.537",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "eslint": "^9.19.0",
+    "eslint-plugin-react": "^7.37.4",
+    "typescript": "^5.8.2"
+  }
+}
